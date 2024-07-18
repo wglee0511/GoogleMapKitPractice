@@ -1,0 +1,11 @@
+//
+//  .xcconfig.xcconfig
+//  GoogleMapsPrac
+//
+//  Created by racoon on 7/12/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+GOOGLE_MAP_API_KEY = ""
